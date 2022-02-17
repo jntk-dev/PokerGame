@@ -1,6 +1,6 @@
-#Technical Assessment
+Technical Assessment
 
-#– Poker Test -
+– Poker Test -
 
 #Problem Statement
 Five-card draw is a variant of poker where each player receives a hand of 5 cards, is then allowed to swap
